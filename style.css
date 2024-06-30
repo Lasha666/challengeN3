@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(192, 215, 219);
+}
+.mtavari{
+    background-color: white;
+    width: 340px;
+    height: 500px;
+    margin: auto;
+    margin-top: 100px ;
+    border-radius: 15px;
+}
+ .img{
+ margin: 17px;
+
+ padding-top: 17px;
+} 
+.img>img{
+    border-radius: 10px;
+}
+.txt{
+    padding: 0;
+    margin: 0;
+    font-size: 23px;
+    text-align: center;
+    font-weight: 700;
+    color: rgb(36, 36, 92);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.txt2{
+    text-align: center;
+    color: rgb(153, 153, 153);
+}
